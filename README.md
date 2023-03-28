@@ -5,7 +5,7 @@ type :: Group/team project
 tags:: #Home 
 links:: https://github.com/Jax-Baiya/printf
 title:: README
-author:: Jax Baiya 
+author:: Felix Oladele and Jax Baiya 
 date:: Wed, 29-03-2023
 
 ---
@@ -20,7 +20,7 @@ title: Prelims
 ---
 ```ad-quote
 > I cannot make my days longer, so I strive to make them better.
-> — <cite>Henry David Thoreau</cite>
+> — Henry David Thoreau
 ```
 
 ---
