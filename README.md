@@ -1,4 +1,30 @@
-# ALX Software Enginering Printf Team Project
+---
+cssclass : dashboard
+up:: __
+type :: Group/team project
+tags:: #Home 
+links:: https://github.com/Jax-Baiya/printf
+title:: README
+author:: Jax Baiya 
+date:: Wed, 29-03-2023
+
+---
+```ad-summary
+title: Prelims
+- Up:: __
+- Tags:: #Home #printf #Software_Engineering #SE
+- Links:: [printf](https://github.com/Jax-Baiya/printf)
+- type :: Group/team project
+```
+
+---
+```ad-quote
+> I cannot make my days longer, so I strive to make them better.
+> — <cite>Henry David Thoreau</cite>
+```
+
+---
+# ALX SE Printf Team Project
 This team project is a custom made printf function for the C programming language called \_printf. It has been optimized to take various inputs and optional arguments based exactly on how the standard library function printf works. We submitted this as part of the ALX software engineering course requirement for grading.
 
 ## **Synopsis**
@@ -19,11 +45,8 @@ The format string is a character string starting and ending with double quotes. 
 Each conversion specification is introduced by the character **%** and ends with a **conversion specifier**. In between there may be (in this order):
 
 > Zero or more **flags**
->
 > An optional field **width**
->
 > An optional **precision** modifier
->
 > An optional **length** modifier
 
 **The flag characters**
